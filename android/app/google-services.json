@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "173070264828",
+    "firebase_url": "https://login-e8324-default-rtdb.firebaseio.com",
+    "project_id": "login-e8324",
+    "storage_bucket": "login-e8324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173070264828:android:10309ee4a7b1088ef6aa79",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoxtzUZ8Qi9k2B5WOxv92BFwYX0rx-y48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

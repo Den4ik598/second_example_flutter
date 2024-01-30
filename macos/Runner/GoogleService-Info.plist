@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCO_mEzspgwbWdcPyjKe6pdNw5H4baKxu0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>173070264828</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.login.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>login-e8324</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-e8324.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:173070264828:ios:cceffc5ce2d69f3cf6aa79</string>
+	<key>DATABASE_URL</key>
+	<string>https://login-e8324-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
